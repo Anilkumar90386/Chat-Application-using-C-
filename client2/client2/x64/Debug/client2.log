@@ -1,0 +1,4 @@
+﻿  client2.cpp
+C:\Users\Admin\source\repos\client2\client2\client2.cpp(48,2): error C3861: 'getline': identifier not found
+C:\Users\Admin\source\repos\client2\client2\client2.cpp(52,3): error C3861: 'getline': identifier not found
+C:\Users\Admin\source\repos\client2\client2\client2.cpp(54,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
